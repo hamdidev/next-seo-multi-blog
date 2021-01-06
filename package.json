@@ -14,7 +14,7 @@
     "dependencies": {
         "@emotion/core": "^10.0.28",
         "@zeit/next-css": "^1.0.1",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "isomorphic-fetch": "^2.2.1",
         "js-cookie": "^2.2.1",
         "next": "^9.3.6",
